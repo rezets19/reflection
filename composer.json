@@ -1,0 +1,17 @@
+{
+    "name": "rezets19/reflection",
+    "description": "Reflection helper class",
+    "autoload": {
+        "psr-4": {
+            "Reflection\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rezets"
+        }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+}
